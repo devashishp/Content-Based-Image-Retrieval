@@ -8,10 +8,10 @@
 
 # How it works
 Basic Details :
-(Based on research by Yen Do et al.)[http://dl.acm.org/citation.cfm?id=2448648&dl=ACM&coll=DL&CFID=804778667&CFTOKEN=26088710]
-
-Optimization Details :
-(Our Approach)[http://devashishpurandare.me/assets/pdf/hcbir.pdf]
+[Based on research by Yen Do et
+al.](http://dl.acm.org/citation.cfm?id=2448648&dl=ACM&coll=DL&CFID=804778667&CFTOKEN=26088710)
+Optimization Details : 
+[Our Approach](http://devashishpurandare.me/assets/pdf/hcbir.pdf)
 
 
 # Organization
